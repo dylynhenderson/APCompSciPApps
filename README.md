@@ -4,6 +4,6 @@ A culmination of the apps I created for my AP Computer Science Principles course
 > [!IMPORTANT]
 > Apps made with MIT App Inventor and coorelate with the Mobile CSP curriculum.
 
-> https://www.mobilecsp.org/home
-
 > https://appinventor.mit.edu/
+
+> https://www.mobilecsp.org/home
